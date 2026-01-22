@@ -247,10 +247,6 @@ Commands: help, view, echo, clear, quit, math like 1+1 or 4*4+9*9
 
 11.Output 
 
-A screenshot of a computer
-
-AI-generated content may be incorrect. 
-
 12. Future Improvements  
 
     Add ls and cat with a mini filesystem 
